@@ -1,0 +1,10 @@
+.splitBill {
+    background-color: #fcf2e0;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 25px;
+    width: 100%;
+}

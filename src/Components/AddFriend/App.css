@@ -1,0 +1,28 @@
+.addFriend {
+    display: flex;
+    flex-direction: column;
+    background-color: #fcf2e0;
+    padding: 20px 30px;
+    width: 385px;
+    border-radius: 10px;
+}
+
+.addFriend > * {
+  margin-bottom: 1rem;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.input-btn {
+    width: 100%;
+    text-align: end;
+}
+
+.btn {
+    background-color: #fd9e40;
+}
